@@ -1,6 +1,6 @@
 # Activating Windows and Office with Microsoft Activation Scripts (MAS)
 
-![MAS Logo]([https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/master/media/logo.png](https://massgrave.dev/img/logo_small.png))
+
 
 ## Overview
 Microsoft Activation Scripts (MAS) offers a variety of methods to activate Windows and Office products. This guide will walk you through the steps to use these scripts, making the process simple even for beginners.
@@ -15,7 +15,7 @@ Microsoft Activation Scripts (MAS) offers a variety of methods to activate Windo
 1. **Open Start Menu**: Click on the Windows icon.
 2. **Find PowerShell**: Type "PowerShell" in the search bar.
 3. **Run as Administrator**: Right-click on **Windows PowerShell** and select **Run as Administrator**.
-![PowerShell](https://www.techadvisor.com/wp-content/uploads/2022/11/powershell-search.jpg)
+
 
 ### Step 2: Run the Activation Script
 Copy and paste the following command into PowerShell and press Enter:
@@ -37,7 +37,7 @@ For permanent activation:
 - Select **[1] HWID** for Windows.
 - Select **[2] Ohook** for Office.
 
-![MAS Menu](https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/master/media/menu.png)
+
 
 ### Step 4: Follow On-Screen Instructions
 The script will guide you through the necessary steps, including:
@@ -45,7 +45,7 @@ The script will guide you through the necessary steps, including:
 - Generating the required keys.
 - Confirming successful activation.
 
-![Activation Success](https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/master/media/activation-success.png)
+
 
 ## Alternative Method: Traditional Method
 If you are using Windows 7 or have issues with the PowerShell method, use this method:
@@ -54,7 +54,7 @@ If you are using Windows 7 or have issues with the PowerShell method, use this m
 3. **Run the Script**: Open the extracted folder and run `MAS_AIO.cmd`.
 4. **Follow Instructions**: Follow the on-screen instructions to activate your products.
 
-![Extract Files](https://www.winhelponline.com/blog/wp-content/uploads/2020/03/extract-all-option-file-explorer.jpg)
+
 
 ## Troubleshooting
 For any issues, refer to the [troubleshooting guide](https://massgrave.dev/troubleshoot) on the MAS website. Additional help and FAQs can also be found there.
