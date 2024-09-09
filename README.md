@@ -1,6 +1,6 @@
 # Activating Windows and Office with Microsoft Activation Scripts (MAS)
 
-![MAS Logo](https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/master/media/logo.png)
+![MAS Logo]([https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/master/media/logo.png](https://massgrave.dev/img/logo_small.png))
 
 ## Overview
 Microsoft Activation Scripts (MAS) offers a variety of methods to activate Windows and Office products. This guide will walk you through the steps to use these scripts, making the process simple even for beginners.
